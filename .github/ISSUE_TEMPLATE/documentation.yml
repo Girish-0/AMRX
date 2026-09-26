@@ -1,0 +1,23 @@
+name: Documentation correction
+description: Report unclear, inconsistent or unsupported documentation.
+title: "[Docs] "
+body:
+  - type: input
+    id: location
+    attributes:
+      label: File or link
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What is wrong or unclear?
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Suggested correction and supporting evidence
+      description: Distinguish a historical claim from the current baseline.
+    validations:
+      required: true

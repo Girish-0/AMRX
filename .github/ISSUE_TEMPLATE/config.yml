@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Read the current project status
+    url: https://github.com/Girish-0/AMRX/blob/main/docs/STATUS.md
+    about: Check available evidence and open gates before filing work.

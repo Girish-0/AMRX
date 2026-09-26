@@ -1,0 +1,21 @@
+# Local credentials and tools
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+# Python and scratch output
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+work/
+tmp/
+# CAD/editor lock and temporary files
+~$*
+*.bak
+*.tmp

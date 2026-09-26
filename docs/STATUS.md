@@ -1,8 +1,8 @@
 # Current status and evidence
 
-**Snapshot: 26 September 2026. Stage: concept and engineering planning.**
+**Snapshot: 26 September 2026. Stage: CAD concept and engineering development.**
 
-This inventory describes the files supplied in the ZIP and existing repository. It does not infer unshared work or completion from a document title.
+This inventory describes the supplied files, repository, and subsequently supplied current Fusion link. It does not infer unshared work or completion from a document title.
 
 | Area | Evidence available | Status |
 |---|---|---|
@@ -10,7 +10,8 @@ This inventory describes the files supplied in the ZIP and existing repository. 
 | Research | [Document library](README.md) | Research record available; claims need source-level review |
 | Design evolution | v1 proposals, original slide deck, failure audit | Preserved as history |
 | Current baseline | [Roadmap v2](engineering/roadmap-v2.md), dated 11 September 2026 | Development direction documented; fabrication release open |
-| Native Fusion CAD and public design link | Not supplied | Open |
+| Current public Fusion model | [AMRX V8 - Structural development](https://a360.co/46Mp9Gh) | Public viewer supplied; see [model status](engineering/CURRENT_MODEL.md) |
+| Native editable CAD archive in Git | Not supplied | Open |
 | Mass/CG ledger and released interface drawing | No released artifact supplied | Open |
 | FEA solver projects, mesh studies and comparative results | Not supplied | Open |
 | Supplier quotations and process-specific manufacturing evidence | Not supplied | Open |

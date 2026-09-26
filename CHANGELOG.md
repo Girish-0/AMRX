@@ -2,6 +2,12 @@
 
 Repository milestones are separate from engineering validation milestones.
 
+## 2026-09-26 — Current public Fusion model
+
+- Added the owner-supplied AMRX V8 model link to the main reviewer entry points.
+- Updated CAD availability while preserving the distinction between model views and validation evidence.
+- Marked previous model links in archived presentations as superseded.
+
 ## 2026-09-26 — Repository foundation
 
 - Imported all 13 supplied archive entries as 12 unique artifacts, with original bytes and SHA-256 provenance.

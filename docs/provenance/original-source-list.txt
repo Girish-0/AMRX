@@ -1,0 +1,42 @@
+For the **SIH26112 / Team AMRX project**, I currently have **11 primary source files** available in this project context:
+
+1. **`SIH26112.pdf` — Official Autodesk / SIH 2026 Problem Statement**  
+   This is the highest-authority source: Part A + Part B requirements, Fusion/Additive Manufacturing expectations, participation rules, deliverables, and the official **100-mark rubric**. It explicitly includes the 30 marks for advanced Fusion features, 20 DfAM, 20 complexity/workability, 15 innovation, and 15 AM process/material selection. fileciteturn0file0L1-L3
+
+2. **`SIH26112 AMR Problem Exploration.pdf` — Initial Technical Exploration & Gap Analysis**  
+   Early-stage research covering requirement decomposition, commercial AMR landscape, generative design/DfAM, quick-change interfaces, materials, structural issues, and the initial identification of missing design parameters. fileciteturn0file1L2-L14
+
+3. **`Modular AMR Engineering Problem Discovery.pdf` — Deep Engineering Problem-Validation Report**  
+   A much deeper investigation of the actual mechanical problem: six-axis load envelopes, chassis/interface architecture, commercial benchmarks, serviceability, safety, dynamic loading, maintenance corridors, and what SIH26112 does/doesn't require. fileciteturn0file2L2-L23
+
+4. **`Modular AMR Patent Landscape Architecture.md` — Patent & Prior-Art Landscape**  
+   Large patent study covering MiR, GreyOrange, ATI tool changers, SCHUNK/zero-point systems, Divergent/BMW additive structural nodes, Autodesk generative-design patents, utility couplers, AMR interfaces, etc. It is particularly useful for defining **what we can legitimately call innovation** versus existing prior art. fileciteturn0file3L1-L15
+
+5. **`Primary Source Acquisition and Architectural Validation for Modular AMR Platform-1.pdf` — Primary-Source Engineering Validation**  
+   Manufacturer manuals, standards, interface data, electrical buses, safety interlocks, mechanical mounting architectures, Fusion generative-design setup, obstacle/preserve geometries, DfAM and structural load cases. This was intended to replace weaker secondary-source claims with primary engineering evidence. fileciteturn0file4L2-L16
+
+6. **`design-freeze-v1.md` — Design Freeze v1.0 & Jury Defence Strategy**  
+   The frozen architecture at that stage: hybrid spaceframe, AlSi10Mg generative nodes, carbon-fibre members, 400 × 500 mm interface, round/diamond locator scheme, hardened wear cartridges, wedge clamping, Part B conveyor, load cases, prototype scope, risks, unresolved parameters, and jury defence. fileciteturn0file5L1-L15
+
+7. **`adversarial-review-part1.md` — Adversarial Engineering Review, Part 1**  
+   Problem formulation, prior-art boundaries, engineering hypotheses, Part A architecture, drivetrain, load paths, serviceability, interface concepts and explicit separation between mature prior art and proposed contributions. fileciteturn0file7L1-L18
+
+8. **`adversarial-review-part2.md` — Adversarial Engineering Review, Part 2**  
+   Part B selection, roller conveyor specification, detailed load calculations, six-axis design envelope, interface sizing, comparative architecture analysis, Fusion optimization strategy, and later-stage design decisions. fileciteturn0file6L1-L20
+
+9. **`modular-amr-technical-roadmap(3).md` — Consolidated Technical Roadmap / Design Freeze**  
+   Roughly 1,600 lines consolidating the two adversarial reviews and design-freeze material into the large technical blueprint. It contains the architecture, equations, structural decisions, interface, materials, DfAM, load cases and implementation roadmap. fileciteturn0file8L1-L15
+
+10. **`SIH26112_Final_Modular_AMR_SIH2026 (1).pptx` — Earlier AMRX Submission Deck**  
+    The presentation that helped get the team through the earlier university selection. It contains the old concept framing, generative AMR proposal, feasibility, benefits, 250 kg target, 800 × 600 mm footprint, drivetrain, conveyor and commercial comparison. fileciteturn0file9L31-L54
+
+11. **`AMRX_AMR_Adversarial_Failure_Audit(1).md` — Latest Failure / Credibility Audit**  
+    This is particularly important because it attacks the previous architecture rather than accepting it. It identifies configuration contradictions, incorrect load multiplication, unsupported LiDAR claims, overconstraint in the four-point interface, conveyor power inconsistencies, lack of reproducible Fusion results, mismatch between the 250 kg PPT and 100 kg calculations, and submission-rule risks. fileciteturn0file10L1-L25
+
+The **authority hierarchy I would use now** is roughly:
+
+**Official `SIH26112.pdf` → primary-source validation → engineering problem discovery → patent landscape → adversarial failure audit → revised/design-freeze engineering documents → old PPT / early exploration.**
+
+Critically, I would **not treat the 1,600-line roadmap or Design Freeze v1.0 as unquestionable truth anymore**. The later failure audit demonstrates several internal contradictions and calculation defects, so for any final government-portal submission or engineering claim, I would reconcile those documents against the official brief and primary evidence first. fileciteturn0file10L9-L25
+
+I also have the **current project conversation history**, including the later 8-roller architecture, 800 × 600 mm chassis, 400 × 500 mm interface, Fusion model discussions, your A360 link, GitHub repository context, and the updated presentation work.

@@ -1,0 +1,15 @@
+* text=auto eol=lf
+*.pdf binary
+*.pptx binary
+*.png binary
+*.jpg binary
+*.f3d binary
+*.f3z binary
+*.step binary
+*.stl binary
+# Preserve imported evidence bytes, including original line endings.
+docs/engineering/roadmap-v2.md -text
+docs/history/v1/** -text
+docs/reviews/adversarial-failure-audit.md -text
+docs/research/patent-landscape.md -text
+docs/provenance/original-source-list.txt -text

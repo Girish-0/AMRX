@@ -1,0 +1,98 @@
+{
+  "schema_version": 1,
+  "import_date": "2026-09-26",
+  "source_archive": "SIH26112_AMRX_All_Project_Files.zip",
+  "archive_sha256": "6f26f7c5858c8bf8f0377dce486c33367ce532077a673af46ac2b82a946dcf6c",
+  "notes": [
+    "Original artifact bytes preserved; filenames normalized for navigation.",
+    "The two audit filenames are byte-identical and map to one canonical file.",
+    "Import date is not an original authorship date."
+  ],
+  "files": [
+    {
+      "original_name": "SIH26112.pdf",
+      "path": "docs/brief/SIH26112.pdf",
+      "bytes": 905421,
+      "sha256": "e2a82b585b304b5fd02273c1c87b8ae62f1037f85607443f7cd6ff70768b7d33"
+    },
+    {
+      "original_name": "SIH26112 AMR Problem Exploration.pdf",
+      "path": "docs/research/problem-exploration.pdf",
+      "bytes": 195193,
+      "sha256": "085c80f8211197046b6be08d0dd6f30028415993935c3cbd4a67f5a09b2d79e4"
+    },
+    {
+      "original_name": "Modular AMR Engineering Problem Discovery.pdf",
+      "path": "docs/research/engineering-problem-discovery.pdf",
+      "bytes": 538617,
+      "sha256": "5f2b3a4efd867fbccb51c09fb746844e97f92587a848aa971d367349b533fa3e"
+    },
+    {
+      "original_name": "Primary Source Acquisition and Architectural Validation for Modular AMR Platform-1.pdf",
+      "path": "docs/research/primary-source-validation.pdf",
+      "bytes": 858259,
+      "sha256": "ba26802f420476a930c70df0fad33c672d1c7ebabadbacdf88f86b3573fe5a5b"
+    },
+    {
+      "original_name": "Modular AMR Patent Landscape Architecture.md",
+      "path": "docs/research/patent-landscape.md",
+      "bytes": 300935,
+      "sha256": "8084be103783d78ec0037368c78d7413996ff3f602b071a880d13238a97e7599"
+    },
+    {
+      "original_name": "adversarial-review-part1.md",
+      "path": "docs/history/v1/adversarial-review-part1.md",
+      "bytes": 79948,
+      "sha256": "b045aa78ee5003f713b74d83c9c1c0ca11af26f4db7174e31d1c35b651031ea5"
+    },
+    {
+      "original_name": "adversarial-review-part2.md",
+      "path": "docs/history/v1/adversarial-review-part2.md",
+      "bytes": 70240,
+      "sha256": "1bcb31298e6a7d0aef27c82fe930d23f8c9315c6969f5d6abb2f3c5054decf09"
+    },
+    {
+      "original_name": "design-freeze-v1.md",
+      "path": "docs/history/v1/design-freeze-v1.md",
+      "bytes": 62229,
+      "sha256": "eabde39e0ce11b212e063908886b7bef083e37ee7ca027f6c45ecbbe0551d01a"
+    },
+    {
+      "original_name": "modular-amr-technical-roadmap(3).md",
+      "path": "docs/history/v1/consolidated-roadmap.md",
+      "bytes": 206634,
+      "sha256": "a2527dba4942bbf6c832e45f09db11ef0d04977efe767f9dc5526fb501f06ce5"
+    },
+    {
+      "original_name": "AMRX_AMR_Adversarial_Failure_Audit.md",
+      "path": "docs/reviews/adversarial-failure-audit.md",
+      "bytes": 62653,
+      "sha256": "e541d6b104969254eeb77374d3c2d7402b068a08fa5e9a7024a1c3a8cae7dedf"
+    },
+    {
+      "original_name": "AMRX_AMR_Adversarial_Failure_Audit(1).md",
+      "path": "docs/reviews/adversarial-failure-audit.md",
+      "bytes": 62653,
+      "sha256": "e541d6b104969254eeb77374d3c2d7402b068a08fa5e9a7024a1c3a8cae7dedf"
+    },
+    {
+      "original_name": "SIH26112_Final_Modular_AMR_SIH2026 (1).pptx",
+      "path": "presentation/archive/sih2026-original-proposal.pptx",
+      "bytes": 2428359,
+      "sha256": "c39999708d54ed05907a455dda34d05f8003303adb56904e58147a6d267553d3"
+    },
+    {
+      "original_name": "List all sources.txt",
+      "path": "docs/provenance/original-source-list.txt",
+      "bytes": 5630,
+      "sha256": "79d087ffe2f1513a8463a0b1d94b739f2ea2f384f3c1f0bc6af431842608f7cd"
+    },
+    {
+      "original_name": "AMRX_Revised_Engineering_Roadmap_v2.md",
+      "source": "repository at fef4a60",
+      "path": "docs/engineering/roadmap-v2.md",
+      "bytes": 63805,
+      "sha256": "8f46aa9c456d81d701c6a172545f48fefeb5eb22720cba99fb8a80921f1d9b54"
+    }
+  ]
+}

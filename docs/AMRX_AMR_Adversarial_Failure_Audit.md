@@ -1,12 +1,5 @@
-# AMRX AMR Adversarial Failure Audit
+# Adversarial failure audit
 
-This document contains the adversarial failure audit for AMRX / AMR-related scenarios.
+The canonical document is now [Adversarial failure audit](reviews/adversarial-failure-audit.md).
 
-## Objectives
-- Identify potential failure modes
-- Evaluate edge cases
-- Develop mitigation strategies
-- Summarize risk analysis
-
-## Status
-Draft in progress.
+This page preserves existing links. See the [project home](../README.md) for current status and the reading path.

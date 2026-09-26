@@ -1,0 +1,39 @@
+name: Engineering task
+description: Plan a gate deliverable with explicit acceptance evidence.
+title: "[Engineering] "
+body:
+  - type: dropdown
+    id: gate
+    attributes:
+      label: Verification gate
+      options:
+        - G0 - Requirements and access
+        - G1 - Configuration and packaging
+        - G2 - Loads and ground support
+        - G3 - Interface specimen
+        - G4 - Structure and comparison
+        - G5 - Manufacturing feasibility
+        - G6 - Stationary workability
+        - G7 - Optional mobility
+        - G8 - Capacity and endurance
+    validations:
+      required: true
+  - type: textarea
+    id: outcome
+    attributes:
+      label: Problem and deliverable
+      description: State the affected configuration and concrete output.
+    validations:
+      required: true
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: Acceptance evidence
+      description: What reviewed artifact or measurement will demonstrate completion?
+    validations:
+      required: true
+  - type: textarea
+    id: dependencies
+    attributes:
+      label: Dependencies, owner role and limitations
+      description: Link blocking work and state assumptions. Do not invent a completion date.

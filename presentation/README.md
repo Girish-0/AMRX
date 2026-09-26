@@ -1,10 +1,9 @@
-# AMRX Presentation Assets
+# Presentation materials
 
-This directory stores presentation materials for AMRX, including final presentation files and supporting materials.
+[Download the original proposal deck](archive/sih2026-original-proposal.pptx).
 
-## Included assets
-- AMRX_SIH2026_Updated_Presentation.pptx
-- AMRX_SIH2026_Updated_Presentation.pdf
+This is the supplied seven-slide historical deck, preserved without edits. Its “final” source filename does not establish current approval or validation. Some claims are superseded by the [v2 roadmap](../docs/engineering/roadmap-v2.md); read the [failure audit](../docs/reviews/adversarial-failure-audit.md) before using it.
 
-## Status
-Files to be added or generated as final deliverables.
+A revised deck and PDF were named in the previous repository index but were not actually present. They are not listed as completed deliverables. The [existing rehearsal guide](../docs/AMRX_Updated_PPT_Content_and_Rehearsal_Guide.md) is only a draft outline.
+
+Future presentation updates must cite the current configuration and measured evidence, distinguish targets from results, and be reviewed against confirmed submission rules. Keep a dated source deck and a PDF export together when a revised version is approved.

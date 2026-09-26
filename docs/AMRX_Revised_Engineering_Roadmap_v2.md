@@ -1,12 +1,5 @@
-# AMRX Revised Engineering Roadmap v2
+# Revised engineering roadmap v2
 
-This document outlines the revised engineering roadmap for AMRX.
+The canonical document is now [Revised engineering roadmap v2](engineering/roadmap-v2.md).
 
-## Overview
-- Problem statement
-- System architecture goals
-- Development milestones
-- Validation and deployment strategy
-
-## Status
-Draft in progress.
+This page preserves existing links. See the [project home](../README.md) for current status and the reading path.

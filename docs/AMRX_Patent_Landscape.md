@@ -1,12 +1,5 @@
-# AMRX Patent Landscape
+# Patent landscape
 
-This document summarizes the patent and intellectual property landscape relevant to AMRX.
+The canonical document is now [Patent landscape](research/patent-landscape.md).
 
-## Topics
-- Existing prior art overview
-- Technical differentiation
-- Strategic gaps and opportunities
-- IP risk review
-
-## Status
-Draft in progress.
+This page preserves existing links. See the [project home](../README.md) for current status and the reading path.

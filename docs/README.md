@@ -16,6 +16,7 @@ Read [status](STATUS.md), [evolution](history/README.md), and the [v2 baseline](
 | v1 | [Consolidated roadmap](history/v1/consolidated-roadmap.md) | Consolidation of the v1 proposals |
 | Original pitch | [PowerPoint](../presentation/archive/sih2026-original-proposal.pptx) | Earlier proposal; some claims superseded by v2 |
 | Audit | [Failure audit](reviews/adversarial-failure-audit.md) | Critique and open evidence gaps |
+| Current CAD | [AMRX V8 public Fusion model](https://a360.co/46Mp9Gh) | Current link supplied by project owner; [status](engineering/CURRENT_MODEL.md) |
 | Current planning | [Engineering roadmap v2](engineering/roadmap-v2.md) | Canonical revised development baseline |
 | Current summary | [Architecture](engineering/ARCHITECTURE.md) | Concise explanation of the proposed system |
 | Next steps | [Roadmap](../ROADMAP.md) | Gated plan and completion evidence |

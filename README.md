@@ -8,7 +8,9 @@
 
 AMRX explores a common mobile robot base with interchangeable warehouse attachments: a powered tote conveyor and a passive carrier. The proposed structure combines conventional aluminium members with selectively additively manufactured junctions, replaceable interface wear parts, and accessible service spaces.
 
-> **Current stage: concept and engineering planning.** The repository contains research, design proposals, a failure audit, and a revised development baseline. No native CAD assembly, reproducible solver study, firmware, or physical test record is included. Capacity and performance figures are targets, not demonstrated results.
+> **Current stage: CAD concept and engineering development.** The current public Fusion model is **AMRX V8 - Structural development**. Research, a failure audit, and the v2 engineering plan accompany it. No downloadable native CAD package, reproducible solver study, firmware, or physical test record is committed here. Capacity and performance figures remain targets.
+
+**[Open the current AMRX V8 Fusion model](https://a360.co/46Mp9Gh)** · [Model status and evidence](docs/engineering/CURRENT_MODEL.md)
 
 ## Start here
 
@@ -29,8 +31,9 @@ flowchart LR
     A[Brief and problem exploration] --> B[Research and v1 proposal]
     B --> C[Adversarial failure audit]
     C --> D[v2 development baseline]
-    D --> E[Next: CAD and interface specimen]
-    E --> F[Future: measured validation]
+    D --> E[Current: shared V8 CAD concept]
+    E --> G[Next: checked design and interface specimen]
+    G --> F[Future: measured validation]
 ```
 
 The diagram shows the document narrative, not a dated record of completed hardware. The [history guide](docs/history/README.md) explains which dates are known and which stages are inferred from document contents.

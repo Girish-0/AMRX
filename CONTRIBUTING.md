@@ -12,6 +12,8 @@ AMRX is currently a hardware concept and engineering-documentation project. Impr
 6. Wait for CI and maintainer review. Engineering changes also need a competent domain review; CI is not engineering approval.
 7. Merge after checks pass, then remove the completed branch. Preserve meaningful commit history; do not rewrite published `main` history.
 
+The `main` branch requires a pull request, an up-to-date passing `Repository quality` check, and resolved review conversations. Force pushes and deletion are blocked, including for administrators. Required independent approval count is zero while this is a single-maintainer repository; increase it when another qualified reviewer joins.
+
 The repository owner is the initial maintainer. Team members and their responsibilities should be added when agreed. A one-person administrative merge must not be described as independent engineering review.
 
 ## Evidence rules

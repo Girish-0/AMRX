@@ -8,6 +8,7 @@ Repository milestones are separate from engineering validation milestones.
 - Preserved the existing complete v2 roadmap as the current development baseline; replaced ambiguous stub copies with pointers.
 - Added a reviewer reading path, project evolution, evidence status, architecture summary and gated roadmap.
 - Added contribution guidance, ownership, issue/PR templates and repository integrity CI.
+- Added nine gate-tracking issues under three milestones and protected the main branch with required pull requests/checks.
 - Retained prior Git history and the original proposal deck; no hardware validation claimed.
 
 ## Earlier repository state
